@@ -5,7 +5,7 @@ var pool = ["sartre", "nietzsche", "kierekegaard", "kafka", "heidegger", "ortega
 var randomIndex = Math.floor(Math.random() * pool.length);
 var randomizer = pool[randomIndex];
 var newWord = new Word(randomizer);
-var Guesses = 12;
+var Guesses = 15;
 
 var question =
   {
