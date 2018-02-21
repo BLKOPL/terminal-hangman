@@ -1,2 +1,2 @@
 # terminal-hangman
-play hangman on your terminal! Finally!
+play hangman on your command-line! Finally!!!
