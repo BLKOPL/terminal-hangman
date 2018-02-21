@@ -1,0 +1,27 @@
+{
+  "name": "terminal-hangman",
+  "version": "1.0.0",
+  "description": "sick game yo",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "wooo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BLKOPL/terminal-hangman.git"
+  },
+  "keywords": [
+    "hangman"
+  ],
+  "author": "Maria Seneca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BLKOPL/terminal-hangman/issues"
+  },
+  "homepage": "https://github.com/BLKOPL/terminal-hangman#readme"
+}
